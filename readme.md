@@ -12,3 +12,6 @@ PHP 5.2+, well-spelt CSS and Apache (if you want clean URLs).
 
 ## Problems?
 Just send either one of us a message on Twitter: @idiot, @kapooht.
+
+##Fork
+Fixed the deadlink on http://spiffingcss.com/
